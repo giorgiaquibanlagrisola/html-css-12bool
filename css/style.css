@@ -18,3 +18,15 @@
    text-align: center;
    padding: 20px 10px;
 }
+
+.green-box {
+   background-color: #00E165;
+   color: white;
+   text-align: center;
+   padding: 10px 5px;
+   border: 1px solid #006CFA;
+}
+
+.container {
+   margin-bottom: 10px;
+}
