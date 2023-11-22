@@ -10,11 +10,11 @@
 /* 
    GENERAL
 */
-html {
-    font-family: Arial, Helvetica, sans-serif;
-}
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
+.box {
+   background-color: #006CFA;
+   color: white;
+   border: 1px solid white;
+   text-align: center;
+   padding: 20px 10px;
 }
